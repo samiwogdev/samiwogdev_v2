@@ -52,7 +52,8 @@
 									<p><strong>Welcome to My Full-Stack Developer Portfolio</strong></p>
                                     <p style="color: black">Turning Ideas into Digital Experiences</p>
 									<p>
-                                        Hello, I'm Samuel Ogunbodede, a passionate and versatile full-stack developer with a deep love for crafting immersive digital solutions. I specialize in turning ideas into user-friendly and visually stunning software applications that leave a lasting impact
+                                        <span style="color: black">Hello, I'm Samuel Ogunbodede,</span>
+                                        I am a highly experienced PHP Developer with over six years of professional expertise, specializing in PHP, Laravel, Java, MVC architecture, object-oriented programming (OOP), Unit testing and the creation of high-quality, user-friendly software solutions while maintaining code integrity.
 									</p>
 									<p><strong>Let's Create Together</strong></p>
                                     <p>Whether you're a startup looking to establish your online presence, a business seeking to optimize your digital solutions, or a fellow developer interested in collaboration, I'm ready to embark on this journey with you.</p>
@@ -111,7 +112,7 @@
 											</div>
 										</li>
 										<li>
-											<div class="name">HTML</div>
+											<div class="name">HTML/CSS</div>
 											<div class="progress">
 												<div class="percentage" style="width:82%;">
 													<span class="percent"><i class="icon ion ion-ios-checkmark-empty"></i></span>
@@ -119,9 +120,9 @@
 											</div>
 										</li>
                                         <li>
-											<div class="name">CSS</div>
+											<div class="name">Java</div>
 											<div class="progress">
-												<div class="percentage" style="width:80%;">
+												<div class="percentage" style="width:50%;">
 													<span class="percent"><i class="icon ion ion-ios-checkmark-empty"></i></span>
 												</div>
 											</div>
@@ -206,13 +207,12 @@
 							</div>
 							<div class="cd-timeline-content">
 								<div class="content-box">
-									<div class="date">2013-2016</div>
-									<div class="name">Facebook Inc.</div>
-									<div class="category">Art Director</div>
-									<p>
-										Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent mediocritatem an, cule dicta iriure at. Ubique
-										maluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi tacimates
-										sapientem sed, pri zril ubique ut. Lorem ipsum dolor sit amet, in quodsi.
+									<div class="date">2021-present</div>
+									<div class="name">LivingTrust Mortgage Bank(LTMB) PLC.</div>
+									<div class="category">Senior Software Engineer</div>
+									<p>As a Senior Software Developer at LTMB, I have had the privilege of spearheading and contributing to an array of transformative digital projects.
+                                        With over 6 years of hands-on experience, I've honed my skills in PHP, Laravel, Java, JavaScript, Vue Js, HTML, and CSS to create dynamic, responsive, and feature-rich Technical solutions.
+                                       <br><br> My journey at LTMB has been marked by a commitment to innovation, unwavering code quality, and a passion for delivering exceptional user experiences.
 									</p>
 								</div>
 							</div>
@@ -223,13 +223,18 @@
 							</div>
 							<div class="cd-timeline-content">
 								<div class="content-box">
-									<div class="date">2009-2013</div>
-									<div class="name">Google Inc.</div>
-									<div class="category">Front-end Developer</div>
+									<div class="date">2020-2021</div>
+									<div class="name">Freelance</div>
+									<div class="category">Software Engineer</div>
 									<p>
-										Ubique maluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi
-										tacimates sapientem sed, pri zril ubique ut. Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent
-										mediocritatem an, cule dicta iriure at.
+                                        As a dedicated Freelance Software Developer, I've had the privilege of collaborating with clients
+                                         worldwide to transform their digital visions into reality. Over the course of my freelance career,
+                                          I've become a trusted partner in the creation of dynamic, innovative, and user-friendly software
+                                          solutions. My skill set encompasses PHP, Laravel, Vue.js, JavaScript, HTML, and CSS,
+                                          and I'm passionate about delivering excellence with each project I undertake.<br><br>
+                                          My freelance journey has been marked by a passion for problem-solving, a commitment to delivering tangible results, and a relentless pursuit of excellence. I eagerly welcome opportunities to partner with clients on diverse software projects that challenge the status quo and drive success.
+
+
 									</p>
 								</div>
 							</div>
@@ -240,13 +245,30 @@
 							</div>
 							<div class="cd-timeline-content">
 								<div class="content-box">
-									<div class="date">2004-2009</div>
-									<div class="name">Abc Inc.</div>
-									<div class="category">Senior Developer</div>
+									<div class="date">2017-2019</div>
+									<div class="name">Alusoft</div>
+									<div class="category">Software Developer</div>
 									<p>
-										Ubique maluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi
-										tacimates sapientem sed, pri zril ubique ut. Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent
-										mediocritatem an, cule dicta iriure at.
+                                        As a seasoned Software Developer at Alusoft, I have consistently played a pivotal role in
+                                        conceptualizing, architecting, and delivering cutting-edge software solutions.
+                                        My career spans over 2 years, during which I've mastered a diverse technology stack, including PHP, Laravel, JavaScript, HTML, and CSS.
+                                        <br>I am dedicated to creating robust, scalable, and user-centric applications while staying at the forefront of industry trends.
+									</p>
+								</div>
+							</div>
+						</div>
+                        <div class="cd-timeline-block animated">
+							<div class="cd-timeline-point">
+								<i class="icon ion ion-ios-checkmark-empty"></i>
+							</div>
+							<div class="cd-timeline-content">
+								<div class="content-box">
+									<div class="date">2016-2017</div>
+									<div class="name">Web Developer Intern</div>
+									<div class="category">Eclessia e-consult</div>
+									<p>
+                                        During my internship at Eclessia, I embarked on an exciting journey to expand my web development skills and contribute to real-world projects.
+                                        My internship experience provided me with valuable insights into PHP, WordPress, JavaScript, HTML, and CSS, while allowing me to collaborate with a dynamic team of professionals.
 									</p>
 								</div>
 							</div>
@@ -475,13 +497,11 @@
 							</div>
 							<div class="cd-timeline-content">
 								<div class="content-box">
-									<div class="date">2002-2004</div>
-									<div class="name">Art University</div>
-									<div class="category">New York</div>
+									<div class="date">2010-2015</div>
+									<div class="name">Obafemi Awolowo University (OAU)</div>
+									<div class="category">Osun, Nigeria</div>
 									<p>
-										Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent mediocritatem an, cule dicta iriure at. Ubique
-										maluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi tacimates
-										sapientem sed, pri zril ubique ut.
+                                        Built upon a robust academic background in Computer Science and Mathematics, complemented by a degree in Computer Science and Mathematics from OAU, my dedication lies in creating efficient, cutting-edge software solutions that propel business achievements while prioritizing user satisfaction.
 									</p>
 								</div>
 							</div>
