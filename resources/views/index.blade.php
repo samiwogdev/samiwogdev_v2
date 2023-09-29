@@ -930,7 +930,7 @@
 
 			<!-- Footer -->
 			<footer>
-				<div class="copy">© 2016 mCard. All rights reserved.</div>
+				<div class="copy">© 2023 samiwogdev. All rights reserved.</div>
 			</footer>
 
 		</div>
