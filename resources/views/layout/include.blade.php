@@ -21,6 +21,9 @@
     <link rel="stylesheet" href="{{ asset('assets/css/animate.css') }}" />
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ asset("assets/images/favicons/favicon.ico") }}">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125314689-11"></script>
+
 </head>
 <body>
     @yield('content')
@@ -30,7 +33,7 @@
     <script src="{{ asset('assets/js/jquery.validate.js') }}"></script>
     <script src="{{ asset('assets/js/magnific-popup.js') }}"></script>
     <script src="{{ asset('assets/js/masonry.pkgd.js') }}"></script>
-    {{-- <script src="{{ asset('assets/js/imagesloaded.pkgd.js') }}"></script> --}}
+    <script src="{{ asset('assets/js/imagesloaded.pkgd.js') }}"></script>
     <script src="{{ asset('assets/js/masonry-filter.js') }}"></script>
     <script src="{{ asset('assets/js/scrollreveal.js') }}"></script>
     <script src="{{ asset('assets/js/jquery.mb.YTPlayer.js') }}"></script>
