@@ -21,17 +21,6 @@
     <link rel="stylesheet" href="{{ asset('assets/css/animate.css') }}" />
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ asset("assets/images/favicons/favicon.ico") }}">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125314689-11"></script>
-    {{-- <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'UA-125314689-11');
-    </script> --}}
 </head>
 <body>
     @yield('content')
