@@ -83,7 +83,7 @@
     <script src="{{ asset('assets/js/masonry-filter.js') }}"></script>
     <script src="{{ asset('assets/js/scrollreveal.js') }}"></script>
     <script src="{{ asset('assets/js/jquery.mb.YTPlayer.js') }}"></script>
-    <script src="{{ asset('assets/js/particles.js') }}"></script>
+    {{-- <script src="{{ asset('assets/js/particles.js') }}"></script> --}}
     <!-- Google map api -->
     <script src="https://maps.google.com/maps/api/js?sensor=false"></script>
     <!-- Main Scripts -->
