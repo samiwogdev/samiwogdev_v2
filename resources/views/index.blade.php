@@ -7,28 +7,23 @@
 			<div class="section started">
 				<div class="st-box">
 					<div class="st-bts">
-						<a href="mailto:smorgan@domain.com" class="btn_animated">
+						<a href="mailto:samiwogdev@gmail.com" class="btn_animated">
 							<span class="circle"><i class="icon ion ion-plus"></i></span>
 						</a>
 					</div>
 					<div class="st-image"><img src="{{ asset('assets/images/samiwogdev.png') }}" alt="" /></div>
-					<div class="st-title">Steve Morgan</div>
-					<div class="st-subtitle">UX/UI Designer & Front-end Developer</div>
+					<div class="st-title">Samuel Ogunbodede</div>
+					<div class="st-subtitle">FULL-STACK DEVELOPER</div>
 					<div class="st-soc">
-						<a target="blank" href="https://www.facebook.com/" class="btn_animated">
-							<span class="circle"><i class="icon ion ion-social-facebook"></i></span>
-						</a>
-						<a target="blank" href="https://github.com/" class="btn_animated">
+						<a target="blank" href="https://github.com/samiwogdev" class="btn_animated">
 							<span class="circle"><i class="icon ion ion-social-github"></i></span>
 						</a>
-						<a target="blank" href="https://twitter.com/" class="btn_animated">
-							<span class="circle"><i class="icon ion ion-social-twitter"></i></span>
+
+						<a href="" class="btn_animated">
+							<span class="circle"><i class="icon ion ion-social-linkedin"></i></span>
 						</a>
-						<a href="skype:smorgan" class="btn_animated">
-							<span class="circle"><i class="icon ion ion-social-skype"></i></span>
-						</a>
-						<a target="blank" href="https://plus.google.com/" class="btn_animated">
-							<span class="circle"><i class="icon ion ion-social-googleplus"></i></span>
+						<a target="blank" href="mailto:samiwogdev@gmail.com" class="btn_animated">
+							<span class="circle"><i class="icon ion ion-social-buffer-outline"></i></span>
 						</a>
 					</div>
 				</div>
@@ -44,31 +39,27 @@
 							<div class="col col-m-12 col-t-5 col-d-5">
 								<div class="info-list">
 									<ul>
-										<li><strong><span>Age:</span></strong> 22 Years</li>
-										<li><strong><span>Job:</span></strong> Freelancer</li>
-										<li><strong><span>Citizenship:</span></strong> United States</li>
-										<li><strong><span>Address:</span></strong> 358 W Jefferson St, Bensenville, IL 60112</li>
-										<li><strong><span>Phone:</span></strong> <a href="tel:12562548456">+1 256 254 84 56</a></li>
-										<li><strong><span>E-mail:</span></strong> <a href="mailto:smorgan@domain.com">smorgan@domain.com</a></li>
+										<li><strong><span>Job:</span></strong> Full Stack Developer</li>
+                                        <li><strong><span>Nationality:</span></strong>Nigeria</li>
+										<li><strong><span>Address:</span></strong> Center District, FCT, Abuja</li>
+										<li><strong><span>Phone:</span></strong> <a href="tel:12562548456">+234 813 9663 026</a></li>
+										<li><strong><span>E-mail:</span></strong> <a href="mailto:smorgan@domain.com">samiwogdev@gmail.com</a></li>
 									</ul>
 								</div>
 							</div>
 							<div class="col col-m-12 col-t-7 col-d-7">
 								<div class="text-box">
-									<p><strong>Hello! I’m Steve Morgan</strong></p>
+									<p><strong>Welcome to My Full-Stack Developer Portfolio</strong></p>
+                                    <p style="color: black">Turning Ideas into Digital Experiences</p>
 									<p>
-										Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-										eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-										voluptatem quia voluptas sit aspernatur aut odit aut fugit. Sed ut perspiciatis unde omnis iste natus error sit
-										voluptatem accusantium doloremque.
+                                        Hello, I'm Samuel Ogunbodede, a passionate and versatile full-stack developer with a deep love for crafting immersive digital solutions. I specialize in turning ideas into user-friendly and visually stunning software applications that leave a lasting impact
 									</p>
-									<p>
-										Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.
-									</p>
+									<p><strong>Let's Create Together</strong></p>
+                                    <p>Whether you're a startup looking to establish your online presence, a business seeking to optimize your digital solutions, or a fellow developer interested in collaboration, I'm ready to embark on this journey with you.</p>
 								</div>
 								<div class="bts">
 									<a href="index-1.html#" class="btn btn_animated"><span class="circle">Download CV</span></a>
-									<a href="index-1.html#" class="btn extra contact-btn btn_animated"><span class="circle">Contact Me</span></a>
+									<a href="index-1.html#" class="btn extra contact-btn btn_animated"><span class="circle">Summon Me</span></a>
 								</div>
 							</div>
 						</div>
@@ -88,15 +79,7 @@
 								<div class="skills">
 									<ul>
 										<li>
-											<div class="name">UI/UX Design</div>
-											<div class="progress">
-												<div class="percentage" style="width:78%;">
-													<span class="percent"><i class="icon ion ion-ios-checkmark-empty"></i></span>
-												</div>
-											</div>
-										</li>
-										<li>
-											<div class="name">Web Application</div>
+											<div class="name">PHP</div>
 											<div class="progress">
 												<div class="percentage" style="width:90%;">
 													<span class="percent"><i class="icon ion ion-ios-checkmark-empty"></i></span>
@@ -104,25 +87,41 @@
 											</div>
 										</li>
 										<li>
-											<div class="name">Mobile Application</div>
+											<div class="name">Laravel</div>
 											<div class="progress">
-												<div class="percentage" style="width:84%;">
+												<div class="percentage" style="width:85%;">
 													<span class="percent"><i class="icon ion ion-ios-checkmark-empty"></i></span>
 												</div>
 											</div>
 										</li>
 										<li>
-											<div class="name">Writing</div>
+											<div class="name">Javascript</div>
 											<div class="progress">
-												<div class="percentage" style="width:60%;">
+												<div class="percentage" style="width:75%;">
 													<span class="percent"><i class="icon ion ion-ios-checkmark-empty"></i></span>
 												</div>
 											</div>
 										</li>
 										<li>
-											<div class="name">Photography</div>
+											<div class="name">Vue Js</div>
 											<div class="progress">
-												<div class="percentage" style="width:72%;">
+												<div class="percentage" style="width:65%;">
+													<span class="percent"><i class="icon ion ion-ios-checkmark-empty"></i></span>
+												</div>
+											</div>
+										</li>
+										<li>
+											<div class="name">HTML</div>
+											<div class="progress">
+												<div class="percentage" style="width:82%;">
+													<span class="percent"><i class="icon ion ion-ios-checkmark-empty"></i></span>
+												</div>
+											</div>
+										</li>
+                                        <li>
+											<div class="name">CSS</div>
+											<div class="progress">
+												<div class="percentage" style="width:80%;">
 													<span class="percent"><i class="icon ion ion-ios-checkmark-empty"></i></span>
 												</div>
 											</div>
@@ -171,10 +170,18 @@
 												</div>
 											</div>
 										</li>
-										<li>
+                                        <li>
 											<div class="name">Language</div>
 											<div class="progress">
-												<div class="percentage" style="width:72%;">
+												<div class="percentage" style="width:74%;">
+													<span class="percent"><i class="icon ion ion-ios-checkmark-empty"></i></span>
+												</div>
+											</div>
+										</li>
+										<li>
+											<div class="name">Testing and Quality Assurance</div>
+											<div class="progress">
+												<div class="percentage" style="width:90%;">
 													<span class="percent"><i class="icon ion ion-ios-checkmark-empty"></i></span>
 												</div>
 											</div>
