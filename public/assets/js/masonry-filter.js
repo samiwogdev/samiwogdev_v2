@@ -1,6 +1,6 @@
 (function($){
   'use strict';
-  
+
   $.fn.multipleFilterMasonry = function(options){
     var cache=[];
     var filters = [];
